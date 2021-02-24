@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kuba Jaruga</h1>
+<h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">I'm from Poland. I want to make a difference and turn cool ideas into reality. I'm interesed in mobile applications.</h3>
 
 - 🔭 I’m currently working on **mobile app development**
