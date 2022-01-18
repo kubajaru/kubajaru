@@ -1,5 +1,5 @@
 # Kuba Jaruga - @kubajaru
-Hi, I'm Kuba - student of Information Technology. Aspiring devops engineer and mobile app developer. I'm a huge car guy, LoL player and geek. 
+Hi, I'm Kuba - student of Information Technology. Aspiring DevOps engineer. I'm a huge car guy, LoL player and geek. 
 
 
 ## Tech Stack:
