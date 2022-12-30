@@ -1,13 +1,12 @@
 # Kuba Jaruga - @kubajaru
-Hi, I'm Kuba - student of Information Technology at Technical University of Lodz. Junior DevOps engineer focusing on Kubernetes, cloud and CI/CD. I'm a huge car guy, gamer and geek. 
+Hi, I'm Kuba - DevOps engineer focusing on Kubernetes, cloud and CI/CD. I'm a huge car guy, gamer and geek. 
 
 ## Tech Stack:
-* Programming languages: Python / Java / Dart
-* DB: MSSQL / SQLite
-* Cloud: Azure / AWS
+* Programming languages: Python / Java / Dart / Go
+* Cloud: Azure
 * Containers: Docker
 * Container orchestration: Kubernetes / Rancher
-* CI/CD: Jenkins / GitHub actions / Azure DevOps pipelines / Gitlab CI/CD
+* CI/CD: GitHub actions / Azure DevOps pipelines
 * Configuration managment: Ansible
 * Infrastructure managment: Terraform
 * Obesrvability: Prometheus + Grafana
